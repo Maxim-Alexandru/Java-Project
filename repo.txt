@@ -1,0 +1,23 @@
+5
+1/Maxim Alexandru/alexmaxim2048@gmail.com/15.11.1999/Lecturer
+2/Bocicor Iuliana/iuliana[at]cs.ubbcluj.ro/04.03.1983/Lecturer
+3/Alina Enescu/aenescu[at]cs.ubbcluj.ro/15.10.1989/Assistant
+4/Ciprian Ionel/justAnEmail@gmai.com/15.11.1999/Professor
+5/Chelaru Alexandru/emailadress@yahoo.com/02.03.1978/Lecturer
+4
+3/Advanced Methods of Programming/5
+4/Databases/5
+5/Complex Analysis/4
+6/Data Structures/10
+7
+6/Activity1/1/Maxim Alexandru/alexmaxim2048@gmail.com/15.11.1999/Lecturer/3/Advanced Methods of Programming/5/Lecture/1/Amfiteatrul Nicolae Iorga/Cladirea Centrala/12:00-14:00/Monday
+7/Activity2/1/Maxim Alexandru/alexmaxim2048@gmail.com/15.11.1999/Lecturer/5/Complex Analysis/4/Lecture/1/Amfiteatrul Nicolae Iorga/Cladirea Centrala/08:00-10:00/Tuesday
+8/Activity3/2/Bocicor Iuliana/iuliana[at]cs.ubbcluj.ro/04.03.1983/Lecturer/3/Advanced Methods of Programming/5/Lecture/2/A1/Facultatea de Stiinte Economice si Gestiunea Afacerilor/18:00-20:00/Wednesday
+9/Activity4/2/Bocicor Iuliana/iuliana[at]cs.ubbcluj.ro/04.03.1983/Lecturer/3/Advanced Methods of Programming/5/Laboratory/3/312/Facultatea de Drept/14:00-16:00/Thursday
+10/Activity5/2/Bocicor Iuliana/iuliana[at]cs.ubbcluj.ro/04.03.1983/Lecturer/4/Databases/5/Seminar/3/312/Facultatea de Drept/12:00-14:00/Friday
+11/Activity6/3/Alina Enescu/aenescu[at]cs.ubbcluj.ro/15.10.1989/Assistant/6/Data Structures/10/Laboratory/1/Amfiteatrul Nicolae Iorga/Cladirea Centrala/16:00-18:00/Monday
+12/Activity7/5/Chelaru Alexandru/emailadress@yahoo.com/02.03.1978/Lecturer/4/Databases/5/Seminar/1/Amfiteatrul Nicolae Iorga/Cladirea Centrala/12:00-14:00/Tuesday
+3
+1/Amfiteatrul Nicolae Iorga/Cladirea Centrala
+2/A1/Facultatea de Stiinte Economice si Gestiunea Afacerilor
+3/312/Facultatea de Drept
