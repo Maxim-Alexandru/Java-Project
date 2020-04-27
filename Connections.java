@@ -842,7 +842,7 @@ public class Connections
 
     /**
      * @param timetable is the timetable used in both previous functions (setParameters(), createTimetable())
-     * @param startHourIndex will receive an Integer that represents the column where the activity need to be added
+     * @param startHourIndex will receive an Integer that represents the column where the activity needs to be added
      * @param endHourIndex will receive an Integer that represents the row where the activity starts
      * @param dayIndex will receive an Integer that represents the row where the activity ends
      * @param colour is a String consisting of the colours previously mentioned, to distinguish different types of activities
